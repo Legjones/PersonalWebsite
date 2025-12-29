@@ -29,4 +29,4 @@ latest_posts:
 
 I am Legrand Jones II, a current graduate student in math under Professor Ayelet Lindenstrauss at Indiana University. I am particularly interested in algebraic topology, techniques/ideas related to homological algebra, and (very broadly) category theory. Also a big fan of physical and digital games! 
 
-Slightly more specifically my current focus is on THH. Recently I have also become interested in mathematical formalization/proof assistants.
+Slightly more specifically my current focus is on THH, Hochschild Homology, and the like.
